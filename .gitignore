@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+*.jar
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.classpath
+.project
+.settings/
+.DS_Store
+
+# Local properties
+local.properties
+
+# Generated files
+*.class
+*.dex
+*.so
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
