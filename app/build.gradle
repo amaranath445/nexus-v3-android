@@ -2,7 +2,9 @@ plugins {
     id 'com.android.application'
 }
 
-android {
+android {android {
+    namespace 'com.nexus.v3'
+    compileSdkVersion 34
     compileSdkVersion 34
     defaultConfig {
         applicationId "com.nexus.v3"
